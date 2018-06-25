@@ -1,0 +1,10 @@
+onliner.by  mail.ru
+onliner.by  yandex.ru
+onliner.by  google.com
+google.com  yandex.ru
+youtube.com google.com
+tut.by      google.com
+youtube.com mail.ru
+mail.ru     youtube.com
+dev.by      google.com
+google.com  mail.ru

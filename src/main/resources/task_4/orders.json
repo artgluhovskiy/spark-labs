@@ -1,0 +1,14 @@
+{"order_id" : 1, "customer_id" : 1, "creation_tmst" : "12.03.2018", "completion_tmst" : "12.03.2018"}
+{"order_id" : 2, "customer_id" : 2, "creation_tmst" : "11.01.2018", "completion_tmst" : "11.01.2018"}
+{"order_id" : 3, "customer_id" : 2, "creation_tmst" : "15.05.2018", "completion_tmst" : "15.05.2018"}
+{"order_id" : 4, "customer_id" : 1, "creation_tmst" : "16.10.2018", "completion_tmst" : "16.10.2018"}
+{"order_id" : 5, "customer_id" : 2, "creation_tmst" : "11.07.2018", "completion_tmst" : "11.07.2018"}
+{"order_id" : 6, "customer_id" : 1, "creation_tmst" : "09.01.2018", "completion_tmst" : "09.01.2018"}
+{"order_id" : 7, "customer_id" : 3, "creation_tmst" : "07.02.2018", "completion_tmst" : "07.02.2018"}
+{"order_id" : 8, "customer_id" : 2, "creation_tmst" : "11.03.2018", "completion_tmst" : "11.03.2018"}
+{"order_id" : 9, "customer_id" : 3, "creation_tmst" : "21.06.2018", "completion_tmst" : "21.06.2018"}
+{"order_id" : 10, "customer_id" : 1, "creation_tmst" : "10.09.2018", "completion_tmst" : "10.09.2018"}
+{"order_id" : 11, "customer_id" : 2, "creation_tmst" : "10.04.2018", "completion_tmst" : "10.04.2018"}
+
+
+
